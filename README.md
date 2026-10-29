@@ -60,5 +60,5 @@ This project performs exploratory data analysis and trend identification on hist
 ├── TSLA.csv                # Kaggle dataset for Tesla historical prices
 ├── README.md               # Project documentation and setup guide
 └── requirements.txt        # Python package dependencies
-
+```
 [Chirag Kori]
